@@ -1,3 +1,3 @@
-[submodule "src/SI_Toolkit/Functions/Pytorch/EdgeDRNN"]
-	path = src/SI_Toolkit/Functions/Pytorch/EdgeDRNN
+[submodule "Functions/Pytorch/EdgeDRNN"]
+	path = Functions/Pytorch/EdgeDRNN
 	url = git@github.com:SensorsINI/EdgeDRNN.git
